@@ -1,0 +1,2 @@
+F:\anul 3\VR\testVR\testVR\obj\Debug\testVR.csproj.AssemblyReference.cache
+F:\anul 3\VR\testVR\testVR\obj\Debug\testVR.csproj.CoreCompileInputs.cache
